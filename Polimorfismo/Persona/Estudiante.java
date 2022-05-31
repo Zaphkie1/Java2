@@ -13,6 +13,7 @@ public class Estudiante extends Persona {
         this.promedio = promedio;
     }
 
+
     public String getEscuela() {
         return this.escuela;
     }
