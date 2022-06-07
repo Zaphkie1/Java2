@@ -10,7 +10,7 @@ public class Persona {
 	String direccion;
 	public Persona(String nombre, String apellido, int edad, String sexo, double peso, double altura,
 			String direccion) {
-		
+
 		this.nombre = nombre;
 		this.apellido = apellido;
 		this.edad = edad;
@@ -61,8 +61,5 @@ public class Persona {
 	public void setDireccion(String direccion) {
 		this.direccion = direccion;
 	}
-	
-	
-	
 
 }
